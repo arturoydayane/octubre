@@ -1,6 +1,6 @@
 #EXTM3U
 
-EXTINF:0 tvg-logo="https://pics.filmaffinity.com/cool_runnings-296855521-mmed.jpg", JAMAICA BAJO CERO
+#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/cool_runnings-296855521-mmed.jpg", JAMAICA BAJO CERO
 https://s11.netu.tv/download/apzxhF4hsbWqZYZOPcTbOw/1601590207/flv/api/files/videos/2020/10/01/1601576066nctjp.mp4
 
 #EXTINF:-1  tvg-logo="https://pics.filmaffinity.com/el_infierno-441063580-mmed.jpg",El Infierno
